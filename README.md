@@ -1,6 +1,6 @@
 # WORST CODE EVER
 
-## /!\ Imporatant avant de commencer /!\
+## /!\ Important avant de commencer /!\
   - Un interpréteur python doit être utilisé.
   - Pensez à installer le module 'pygame' avec la commande 'pip install pygame' dans le terminal.
 
