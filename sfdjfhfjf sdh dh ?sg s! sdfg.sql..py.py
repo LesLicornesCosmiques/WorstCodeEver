@@ -13,7 +13,8 @@ while II11II11I==III1III11:
     elif I111II1I1=='111III11I'and(I1IIII11I[int(not())]%I1111IIII==int()):IIIII1III='111III11I';I111II1I1='1111I1111';
     elif I111II1I1=='1111IIIII'and(I1IIII11I[int()]%I1111IIII==int()):IIIII1III='1111IIIII';I111II1I1='1111I1111';
     elif I111II1I1=='1II1IIII1'and(I1IIII11I[int()]%I1111IIII==int()):IIIII1III='1II1IIII1';I111II1I1='1111I1111';
-    II1111I1I.blit(II1111II1.transform.scale(II1111II1.image.load('iusghipdrwhpugsdfpiuogdhniopu  zsgdfgdsg???;;.jpg'),((sum(range(51))+5,sum(range(39))-21))),(int(),int()));
+    try:II1111I1I.blit(II1111II1.transform.scale(II1111II1.image.load('iusghipdrwhpugsdfpiuogdhniopu  zsgdfgdsg???;;.jpg'),((sum(range(51))+5,sum(range(39))-21))),(int(),int()));
+    except:II1111I1I.blit(II1111II1.transform.scale(II1111II1.image.load('iusghipdrwhpugsdfpiuogdhniopu  zsgdfgdsg___;;.jpg'),((sum(range(51))+5,sum(range(39))-21))),(int(),int()));
     if IIII1I11I==int():II1III11I.append([II1I11I1I(2,(sum(range(51))+5)//I1111IIII-2)*I1111IIII,II1I11I1I(2,(sum(range(39))-21)//I1111IIII-2)*I1111IIII]);IIII1I11I=I111I11II;
     IIII1I11I=IIII1I11I-int(not());
     for I1I1111II in II1III11I:
@@ -52,4 +53,5 @@ while II11II11I==III1III11:
 while III1III11==III1III11:
     for I1III11II in II1111II1.event.get():
         if I1III11II.type==II1111II1.QUIT:II1111II1.quit();exec(chr(113)+"u"+chr(105)+"t()");
-    II1111I1I.blit(II1111II1.transform.scale(II1111II1.image.load('sdxfchgvnj dg  erdhd'+chr(33)+'!:;;s<g g.js.jpg'),(sum(range(51))+5,sum(range(39))-21)),(int(),)*2);II1111II1.display.flip();I111II111.tick(20);
+    try:II1111I1I.blit(II1111II1.transform.scale(II1111II1.image.load('sdxfchgvnj dg  erdhd'+chr(33)+'!:;;s<g g.js.jpg'),(sum(range(51))+5,sum(range(39))-21)),(int(),)*2);II1111II1.display.flip();I111II111.tick(20);
+    except:II1111I1I.blit(II1111II1.transform.scale(II1111II1.image.load('sdxfchgvnj dg  erdhd'+chr(33)+'!_;;s_g g.js.jpg'),(sum(range(51))+5,sum(range(39))-21)),(int(),)*2);II1111II1.display.flip();I111II111.tick(20);
