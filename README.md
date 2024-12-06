@@ -1,5 +1,9 @@
 # WORST CODE EVER
 
+## /!\ Imporatant avant de commencer /!\
+  - Un interpréteur python doit être utilisé.
+  - Pensez à installer le module 'pygame' avec la commande 'pip install pygame' dans le terminal.
+
 ## Langage choisis
   - Python (Parce qu'on est qu'en première année, alors c'est le seul langage que l'on est capable de bien utiliser :D )
 
